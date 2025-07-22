@@ -38,4 +38,4 @@ Just a fun little project for small artists, writers, and anyone who loves playi
 **Check your vocab. Flip your lines.**  
 Your next hook might just rhyme both ways.
 
-👉 [Live Link](https://your-palindrome-tool-link.com)
+👉 [Live Link](https://palindrome-identifier.vercel.app/)
