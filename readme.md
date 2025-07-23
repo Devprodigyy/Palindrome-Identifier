@@ -1,4 +1,4 @@
-# Final Caption – Palindrome Rap Identifier Tool
+Palindrome Rap Identifier Tool
 
 I've always been into rap music — especially Indian Hip Hop and Desi Hip Hop. The flow, the rhyme, the lyricism — it's an art form I genuinely admire.
 
